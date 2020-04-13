@@ -20,6 +20,7 @@ const dummyData = [
             }
         ]
     },
+
     {
         username: "twitch",
         thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
@@ -44,9 +45,29 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
-    }
+    },
 
-    
+    {
+        username: "jasonours",
+        thumbnailUrl: 'https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/11348107_878369798909176_1783499183_a.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=-o2isdGukjsAX9uSr3B&oh=6253afd22efde4d551d86a9b54aed406&oe=5EBDFCB9',
+        imageUrl: 'https://images.pexels.com/photos/3363/clown-fear-horror.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        likes: 16384,
+        timestamp: "June 16th 201, 09:04:13 am",
+        comments: [
+            {
+                username: "jasonours",
+                text: "Father's Day treasure!"
+            },
+            {
+                username: "granna1998",
+                text: "How sweet!"
+            },
+            {
+                username: "averyethan",
+                text: "Clown's are creepy."
+            }
+        ]
+    }
 ];
 
 export default dummyData;
