@@ -6,14 +6,17 @@
   align-items: center;
   background: #ffffff;
 }
+
 .search-form {
   width: 150px;
   font-size: 14px;
 }
+
 .search-form input {
   text-align: center;
   color: #262626;
 }
+
 .image-wrapper {
   height: 50px;
 }
@@ -24,6 +27,8 @@
 
 .social-wrapper {
   display: flex;
+  justify-content: space-evenly;
+  width: 280px;
 }
 
 .social {
